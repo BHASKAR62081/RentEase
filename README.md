@@ -1,10 +1,11 @@
-    .env
-    CLOUD_NAME=
-    CLOUD_API_KEY=
-    CLOUD_API_SECRET=
-    
-    MAP_TOKEN=
-    
-    ATLASDB_URL=
-    
-    SECRET=
+.env
+        
+        CLOUD_NAME=
+        CLOUD_API_KEY=
+        CLOUD_API_SECRET=
+        
+        MAP_TOKEN=
+        
+        ATLASDB_URL=
+        
+        SECRET=
